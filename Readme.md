@@ -1,5 +1,5 @@
 
-# DSA RE Acadmey
+# DSA
 
 ## Array:
 
@@ -47,4 +47,11 @@ Types of Questions:
 
 #### Other Mentionable Problems:
 * Breadth First Search
+
+## Linked List:
+
+Types of Questions:
+
+1. Blockchain
+2. Find/Update/Delete/Add element to linked list
 
