@@ -55,3 +55,18 @@ Types of Questions:
 1. Blockchain
 2. Find/Update/Delete/Add element to linked list
 
+## HashMap / Map:
+
+Types of Questions:
+
+1. Find The Occurence of Number
+2. Find Compliment of Number
+
+## Recursion:
+
+Recursion comes from Maths
+
+Types of Questions:
+
+1. Fibonacci / Factorial
+2. Print Array Front / Back
