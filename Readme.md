@@ -71,3 +71,13 @@ Types of Questions:
 
 1. Fibonacci / Factorial
 2. Print Array Front / Back
+
+## Tree:
+
+
+Types of Problems:
+
+* Tree Traversal
+    
+    * Pre / In / Post Order travesal
+
