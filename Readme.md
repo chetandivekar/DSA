@@ -1,5 +1,5 @@
 
-# DSA
+# DSA RE Acadmey
 
 ## Array:
 
